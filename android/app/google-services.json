@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "62762694413",
+    "project_id": "news-96d60",
+    "storage_bucket": "news-96d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62762694413:android:9f669a9ea0106ca9d22244",
+        "android_client_info": {
+          "package_name": "com.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62762694413-tu1aund5r1cbujube9rt2bqrifged4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLcuoKldeEXnXVTtvGl9F8H7sjHPxDmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62762694413-tu1aund5r1cbujube9rt2bqrifged4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62762694413:android:9df6d69059a52470d22244",
+        "android_client_info": {
+          "package_name": "com.manee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62762694413-tu1aund5r1cbujube9rt2bqrifged4c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLcuoKldeEXnXVTtvGl9F8H7sjHPxDmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62762694413-tu1aund5r1cbujube9rt2bqrifged4c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
